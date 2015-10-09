@@ -1,0 +1,29 @@
+{
+  "name": "nodeify-promise",
+  "version": "1.0.0",
+  "description": "Notifiy a node callback when a Promise has resolved or rejected",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuxsudo/nodeify-promise.git"
+  },
+  "keywords": [
+    "node",
+    "promise",
+    "callback",
+    "nodeify"
+  ],
+  "author": "Jared Anderson <@tuxsudo>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuxsudo/nodeify-promise/issues"
+  },
+  "homepage": "https://github.com/tuxsudo/nodeify-promise#readme",
+  "devDependencies": {
+    "es6-promise": "^3.0.2",
+    "tape": "^4.2.1"
+  }
+}
