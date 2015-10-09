@@ -1,6 +1,6 @@
 {
   "name": "nodeify-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Notifiy a node callback when a Promise has resolved or rejected",
   "main": "index.js",
   "scripts": {
